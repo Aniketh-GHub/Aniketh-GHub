@@ -1,7 +1,7 @@
 # Hi, I'm Aniketh Guda! 👋
 
 ## About Me
-I have a keen interest in Data Analysis, Data Science, Machine Learning, Software Engineering. I am a recent B.Tech graduate, specializing in Computer Science and Engineering.
+I have a keen interest in Data Analysis, Data Science, Machine Learning, and Software Engineering. I am a recent B.Tech graduate, specializing in Computer Science and Engineering.
 ## Skills
 Python, C, C++, Java, HTML, CSS, SQL, Pandas, Matplotlib, NumPy, Seaborn, MS Office (Word, Excel, PowerPoint) , Data Structures, Machine Learning.
 
