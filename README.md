@@ -15,4 +15,5 @@ I am currently focused on enhancing my skills and contributing positively to a f
 3) Exploratory Data Analysis(EDA) Projects for analysing and visualizing the real time data - I used Python, Numpy, Pandas, Matplotlib, Seaborn to work on the data for reading, understanding, cleaning, analyzing, and visualizing.
 ## Contact Information
 - Email: aniketh.guda@gmail.com
-- LinkedIn:https://www.linkedin.com/in/aniketh-guda-77a093227/
+- LinkedIn: https://www.linkedin.com/in/anikethguda/
+  
