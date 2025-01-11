@@ -1,13 +1,13 @@
 # Aniketh Guda
 
 ## Objective
-As a recent B.Tech graduate in Computer Science and Engineering, I am keenly interested in Data Analysis, Data Science, Machine Learning, and Software Engineering. I am eager to apply my academic knowledge and technical skills to contribute positively to a forward-thinking software organization.
+I recently started my career as a SAP Trainee with a focus on Cloud Platform Integration. As a Computer Science and Engineering graduate, I’m eager to learn, grow, and apply my technical skills to contribute meaningfully to impactful projects.
 
 ## Skills
-Python, C, C++, Java, HTML, CSS, SQL, Pandas, Matplotlib, NumPy, Seaborn, MS Office (Word, Excel, PowerPoint) , Data Structures, Machine Learning.
+SAP CPI, JavaScript, Python, SQL, Power BI, C++, Java, HTML, Pandas, Matplotlib, NumPy, Seaborn, MS Office (Word, Excel, PowerPoint), Data Structures, Machine Learning
 
 ## Current Focus
-I am currently focused on enhancing my skills and contributing positively to a forward-thinking software organization.
+I am currently undergoing SAP training at Yash Technologies, focusing on SAP Cloud Platform Integration (CPI). I am dedicated to building my expertise in integration development and contributing to innovative projects.
 
 ## Projects
 1) A Driving Decision Strategy Based on Machine Learning for An Autonomous Vehicle - I used Python technologies to develop and implement a machine learning-driven decision strategy for autonomous vehicles.
@@ -16,4 +16,3 @@ I am currently focused on enhancing my skills and contributing positively to a f
 ## Contact Information
 - Email: aniketh.guda@gmail.com
 - LinkedIn: https://www.linkedin.com/in/anikethguda/
-  
